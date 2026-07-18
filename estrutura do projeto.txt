@@ -1,0 +1,13 @@
+[Usuário] ──(Digita Nome/CPF)──> [Formulário HTML] 
+                                         │
+                                   (Envia via POST)
+                                         ▼
+                                  [Controller PHP]
+                                         │
+                               (Chama Validação & Model)
+                                         ▼
+[Arquivo .sqlite] <──(Salva/Busca)─── [Model PHP]
+        │
+(Retorna Dados)
+        ▼
+[Controller PHP] ──(Injeta dados)──> [View HTML] ──> [Tela do Usuário com Sucesso/Erro]
