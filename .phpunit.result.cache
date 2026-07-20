@@ -1,0 +1,1 @@
+{"version":2,"defects":{"ValidadorCPFTest::testDeveAceitarCpfValido":8,"ValidadorCPFTest::testDeveRejeitarCpfComDigitosRepetidos":8,"ValidadorCPFTest::testDeveRejeitarCpfIncompleto":8},"times":{"ValidadorCPFTest::testDeveAceitarCpfValido":0.003,"ValidadorCPFTest::testDeveRejeitarCpfComDigitosRepetidos":0.002,"ValidadorCPFTest::testDeveRejeitarCpfIncompleto":0.002}}
