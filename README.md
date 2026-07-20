@@ -154,6 +154,15 @@ database/database.sqlite
 
 ---
 
+## Capturas de tela da aplicação:
+<img width="1920" height="1080" alt="Captura de Tela (58)" src="https://github.com/user-attachments/assets/72e202e7-1a9f-486c-969a-11ef4846a058" />
+<img width="1920" height="1080" alt="Captura de Tela (57)" src="https://github.com/user-attachments/assets/8bcdd618-6468-40e0-9430-fff34daa5126" />
+<img width="1920" height="1080" alt="Captura de Tela (56)" src="https://github.com/user-attachments/assets/8080a5ea-e491-4d1e-add0-438626cc3074" />
+<img width="1920" height="1080" alt="Captura de Tela (60)" src="https://github.com/user-attachments/assets/a2689197-6066-4b37-8447-66fe63bd8f88" />
+<img width="1920" height="1080" alt="Captura de Tela (59)" src="https://github.com/user-attachments/assets/b95cc861-37cd-4d5f-95d3-7cc1bfe31b44" />
+
+
+
 ## Autor
 
 Desenvolvido por **Gustavo Rodrigues de Oliveira** como projeto técnico para processo seletivo de estágio.
